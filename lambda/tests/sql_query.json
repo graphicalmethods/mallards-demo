@@ -1,0 +1,6 @@
+{
+    "body": {
+        "query_string": "select count(*) as total from \"dev-quack-data-lake.demo\""
+    },
+    "aws_credentials": "True"
+}
